@@ -93,18 +93,6 @@ p{
 }
 
 
-#footer{
-	background-color : #000;
-	border : 3px solid gray;
-	font-size : 90%;
-	color : #fff;
-	margin : 10px;
-	padding : 10px;
-	text-align : center;
-	border-radius : 10px;
-	clear : both;
-}
-
 .team{
 	background-color : #e5e4d7;
 	font-size : 110%;
@@ -120,6 +108,17 @@ p{
 	padding : 30px 100px 0px 100px;
 	margin : 20px;
 	border-radius: 50%;
+}
+#footer{
+	background-color : #000;
+	border : 3px solid gray;
+	font-size : 90%;
+	color : #fff;
+	margin : 10px;
+	padding : 10px;
+	text-align : center;
+	border-radius : 10px;
+	clear : both;
 }
 
 
