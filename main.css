@@ -63,6 +63,16 @@ p{
 	background-color : #fff;	
 }
 
+#logo{
+	background-image : url(logo.gif) ;
+	background-repeat:no repeat;
+	height : 100px;
+	word-spacing:10px;
+
+	padding : 10px;
+	margin: 10px;
+	border-radius:10px;
+}
 
 #left_sidebar{
 	background-color : #e5e4d7;
@@ -105,6 +115,24 @@ p{
 	border-radius : 10px;
 	clear : both;
 }
+
+.team{
+	background-color : #e5e4d7;
+	font-size : 110%;
+	color : black;
+	margin : 20px 10px 10px 30px;
+	width : 500px;
+	height : 800px;
+	padding : 10px;
+	text-align : center;
+	float : left;
+}
+.team img{
+	padding : 30px 100px 0px 100px;
+	margin : 20px;
+	border-radius: 50%;
+}
+
 
 h1{
 	margin : 0px;
