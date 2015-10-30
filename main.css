@@ -91,23 +91,36 @@ p{
 	
 	
 }
+.canvas{
+	background-color : #e5e4d7;
+	border : 3px solid gray;
+	font-size : 110%;
+	color : black;
+	margin : 10px;
+	padding : 10px;
+	text-align : center;
+	border-radius : 10px;
+	height: 700px;
+	
+}
 
 
 .team{
 	background-color : #e5e4d7;
 	font-size : 110%;
 	color : black;
-	margin : 20px 10px 10px 30px;
-	width : 500px;
-	height : 800px;
-	padding : 10px;
+	margin : 10px 0px 10px 30px;
+	width : 450px;
+	height : 600px;
+	padding : 20px;
 	text-align : center;
-	float : left;
+	float:left;
+	
 }
 .team img{
-	padding : 30px 100px 0px 100px;
+	padding : 30px 60px 0px 60px;
 	margin : 20px;
-	border-radius: 50%;
+	border-radius: 150%;
 }
 #footer{
 	background-color : #000;
@@ -120,7 +133,6 @@ p{
 	border-radius : 10px;
 	clear : both;
 }
-
 
 h1{
 	 margin : 0px;
